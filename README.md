@@ -1,4 +1,4 @@
-# lesson7_RPM   
+# _RPM   
 Vagrantfile собирает машину с репозитарием `http://localhost/repo/` и кастомным `nginx-1.14.1-1.e17_4` c `openssl-1.1.1d`,   
 помещенным в репозитарий.   
 * установка nginx для создания репо   
